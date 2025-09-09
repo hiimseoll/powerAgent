@@ -23,7 +23,6 @@ ESP-12 모듈을 활용하여 제작한 스마트 플러그 프로젝트입니�
 - 클라우드 서버: Azure Compute Engine (Ubuntu)  
 - 데이터베이스: MySQL, phpMyAdmin  
 - 앱 개발: React Native  
-- 통신 프로토콜: MQTT  
 
 ---
 
