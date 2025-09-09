@@ -74,7 +74,7 @@ ESP-12 모듈을 활용하여 제작한 스마트 플러그 프로젝트입니�
 - 스마트플러그 PCB: ![Smart Plug PCB](./images/smartplug-pcb.png)  
 - 릴레이 스위치: ![Relay Switch](./images/relayswitch.jpg)  
 - SMPS 모듈: ![SMPS](./images/smps.jpg)  
-- 디스플레이 모듈: ![Display](./images/display.jpg)  
+- 전시: ![Display](./images/display.jpg)  
 
 ### 구버전 PCB
 | Old Front | Old Back |
