@@ -1,6 +1,4 @@
-제7회 Hallym SW Week C.愛.랑 동아리 전시회 출품작(동상)
-
-powerAgent 스마트플러그
+# 제7회 Hallym SW Week C.愛.랑 동아리 전시회 출품작(동상) - powerAgent 스마트플러그
 
 # 스마트 플러그 (Smart Plug)
 
